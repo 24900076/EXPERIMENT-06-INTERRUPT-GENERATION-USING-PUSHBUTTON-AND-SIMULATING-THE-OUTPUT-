@@ -117,7 +117,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_PIN)
  
  <img width="1920" height="1200" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/f0f0230e-d97e-4d92-be1e-3440466f044e" />
  
-<img width="1920" height="1200" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/29c3c34c-80f5-4dd4-84ab-e27ebc280eeb" />
+<img width="1157" height="815" alt="image" src="https://github.com/user-attachments/assets/7f588373-c32e-4306-8cc5-58e1f2db8e09" />
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  <img width="1079" height="818" alt="image" src="https://github.com/user-attachments/assets/e99873dd-5d9f-4801-9c5a-72fdebe71f0e" />
